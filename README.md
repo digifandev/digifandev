@@ -18,7 +18,7 @@
 ### Digi Fan
 **HTML & Web Developer** · Working on **Mr.Monkey-Docs** right now.
 
-`02 FOLLOWERS` &nbsp;·&nbsp; `13 REPOSITORIES` &nbsp;·&nbsp; `03 STARS`
+`2 FOLLOWERS` &nbsp;·&nbsp; `19 REPOSITORIES` &nbsp;·&nbsp; `1 STAR`
 
 [![Discord](https://img.shields.io/badge/DISCORD-COMMUNITY-5965F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SzxNWYJcrK)
 
